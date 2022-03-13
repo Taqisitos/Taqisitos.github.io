@@ -114,6 +114,6 @@ footer a:link, footer a:visited
 footer a:hover
 {
     background-color: black;
-    color: white;
+    color: rgb(37, 37, 37);
 }
 
