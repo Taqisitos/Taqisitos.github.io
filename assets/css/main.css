@@ -3159,7 +3159,6 @@ input, select, textarea {
 
 			.wrapper.style2 input[type="text"],
 			.wrapper.style2 input[type="password"],
-			.wrapper.style2 input[type="email"],
 			.wrapper.style2 select,
 			.wrapper.style2 textarea {
 				color: inherit;
@@ -3169,7 +3168,6 @@ input, select, textarea {
 
 				.wrapper.style2 input[type="text"]:focus,
 				.wrapper.style2 input[type="password"]:focus,
-				.wrapper.style2 input[type="email"]:focus,
 				.wrapper.style2 select:focus,
 				.wrapper.style2 textarea:focus {
 					border-color: #4696e5;
@@ -4151,7 +4149,7 @@ input, select, textarea {
 
 	.form {	
 		&__field {
-			width: 50%;
+			width: 360px;
 			background: #fff;
 			color: #a3a3a3;
 			font: inherit;
