@@ -4108,27 +4108,6 @@ input, select, textarea {
 
 	}
 
-
-	:root {
-		background: #f5f6fa;
-		color: #9c9c9c;;
-		font: 1rem "PT Sans", sans-serif;
-	}
-
-	html,
-	body,
-	.container {
-		height: 100%;
-	}
-
-	a {
-		color: inherit;
-		
-		&:hover {
-			color: #e22154;
-		}
-	}
-
 	.container {
 		display: flex;
 		flex-direction: column;
